@@ -1,4 +1,4 @@
-<h1>Monthly Revenue and Visualization</h1>
+<h1>Assessing Revenue Trends</h1>
 
 <h2>Description</h2>
 
