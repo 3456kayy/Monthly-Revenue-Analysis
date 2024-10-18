@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-This analysis focuses on analyzing and visualizing monthly revenues across different product categories, such as Electronics, Produce, and Garment. The dataset includes revenue figures of the first five months of the year. Various visualizations, including bar charts, pie charts, and line graphs, were used to reveal trends and highlight revenue contributions by month and category. Results showed that cumulative revenue trends indicated a steady increase over time, as depicted through line plots. A scatter plot was also used to explore correlations between the revenue of different product categories, such as Electronics and Garments. This analysis provides valuable insights into seasonal revenue patterns and product performance, assisting stakeholders in making informed business decisions.
+This analysis focuses on examining and visualizing monthly revenue across different product categories, such as Electronics, Produce, and Garments. The dataset includes revenue figures of the first five months of the year. Various visualizations, including bar charts, pie charts, and line graphs, were used to reveal trends and highlight revenue contributions by month and category. Results showed that cumulative revenue trends indicated a steady increase over time, as depicted through line plots. A scatter plot was also used to explore correlations between the revenue of different product categories, such as Electronics and Garments. This analysis provides valuable insights into seasonal revenue patterns and product performance, assisting stakeholders in making informed business decisions.
 <br />
 <br />
 
